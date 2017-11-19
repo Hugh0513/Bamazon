@@ -8,10 +8,10 @@ Overview : You can buy products for sale.
 ![img](https://github.com/Hugh0513/Bamazon/tree/master/images/customer_01.png)
 
 3. Then, input quantity you want.
-![img]https://github.com/Hugh0513/Bamazon/tree/master/images/customer_02.png
+![img](https://github.com/Hugh0513/Bamazon/tree/master/images/customer_02.png)
 
 4. Your purchase is confirmed. If you keep shopping, choose Yes. If you finish shopping, choose No.
-![img]https://github.com/Hugh0513/Bamazon/tree/master/images/customer_03.png
+![img](https://github.com/Hugh0513/Bamazon/tree/master/images/customer_03.png)
 
 ## Manager View ##
 1. Execute command on bash: $node bamazonManager.js
